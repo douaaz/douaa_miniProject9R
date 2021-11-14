@@ -1,0 +1,19 @@
+h1 {
+  color: navy;
+  font-size: 64px;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: bolder;
+}
+  #paragraph1{
+  color: ivory;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: darkgoldenrod;
+  background-position: center;
+  text-align: center;
+}
+body {
+  
+    background-image: url(https://cdn.shopify.com/s/files/1/0429/8735/6313/files/bw375a_1024x1024.jpg?v=1604760280);
+
+}

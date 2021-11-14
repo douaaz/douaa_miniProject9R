@@ -1,0 +1,17 @@
+p
+{
+  color: navy;
+  font-size: 64px;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: bolder;
+}
+body {
+  background-image: url(https://i.ytimg.com/vi/V9Q8oRmjz-I/maxresdefault.jpg);
+  padding: 500px;
+
+}
+a {
+  color: ivory;
+  font-size: 40px;
+  font-weight: lighter;
+}
